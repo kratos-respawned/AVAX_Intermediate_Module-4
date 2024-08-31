@@ -79,4 +79,4 @@ This function allows players to check the items they have redeemed. It returns a
 
 ## Author
 
-Javed Ansari
+Gaurav Bhandari
